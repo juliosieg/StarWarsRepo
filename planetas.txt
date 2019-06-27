@@ -6,5 +6,7 @@ Hoth
 Terra
 Dantooine
 Jakku
+Planeta3
+Planeta4
 Planeta 5
 Planeta 6
